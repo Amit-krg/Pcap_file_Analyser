@@ -1,0 +1,522 @@
+Opening file:F:\Data\stony\FCN\_8092.pcap
+Source Port:54328 Destination port: 8092
+Req:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Res:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Source Port:54330 Destination port: 8092
+Req:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Res:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Source Port:54324 Destination port: 8092
+Req:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Res:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Source Port:54326 Destination port: 8092
+Req:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Res:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Source Port:54302 Destination port: 8092
+Req:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Res:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Source Port:54300 Destination port: 8092
+Req:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Res:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Source Port:54332 Destination port: 8092
+Req:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Res:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Source Port:54306 Destination port: 8092
+Req:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Res:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Source Port:54334 Destination port: 8092
+Req:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Res:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Source Port:54304 Destination port: 8092
+Req:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Res:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Source Port:54312 Destination port: 8092
+Req:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Res:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Source Port:54314 Destination port: 8092
+Req:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Res:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Source Port:54308 Destination port: 8092
+Req:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Res:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Source Port:54310 Destination port: 8092
+Req:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Res:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Source Port:54320 Destination port: 8092
+Req:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Res:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Source Port:54322 Destination port: 8092
+Req:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Res:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Source Port:54316 Destination port: 8092
+Req:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Res:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Source Port:54318 Destination port: 8092
+Req:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript
+: 
+Res:
+:  
+: 
+:   RequestVersion = /1.0
+:     ResponseCode = 200
+:  ResponseCodeMsg = OK
+:             DATE = Mon, 06 Mar 2017 18:51:48 GMT
+:           SERVER = Apache/2.4.25 (Ubuntu)
+:    ACCEPT-RANGES = bytes
+: CONTENT-ENCODING = gzip
+:   CONTENT-LENGTH = 145
+:       CONNECTION = close
+:     CONTENT-TYPE = application/javascript

@@ -1,0 +1,24 @@
+
+********************************************
+
+Opening file:F:\Data\stony\FCN\http_8092.pcap
+Total time it took to serve the request is:0.583 seconds 
+Total packets exchanged: 2558
+Total Raw Bytes Exchanged: 2317.666 KB
+********************************************
+
+Opening file:F:\Data\stony\FCN\http_8093.pcap
+Total time it took to serve the request is:0.984 seconds 
+Total packets exchanged: 2262
+Total Raw Bytes Exchanged: 2317.383 KB 
+
+********************************************
+
+Opening file:F:\Data\stony\FCN\http_8094.pcap
+Total time it took to serve the request is:0.821 seconds 
+Total packets exchanged: 2069
+Total Raw Bytes Exchanged: 2313.551 KB 
+
+*********************************************
+
+

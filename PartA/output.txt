@@ -1,0 +1,48 @@
+F:\Data\stony\FCN\Assignment2\assignment2.pcap
+Total number of TCP flow initiated from source :3
+************************************************************
+TCP Connection 1
+Source Port:43500
+Throughput: 10.09 Mbits per second 
+Dir -->
+Seq Number: 3640517876 Ack No: 2335809728 Win Size : 49152
+<--Dir
+Seq Number: 2335809728 Ack No: 3636173876 Win Size : 49152
+Dir -->
+Seq Number: 3639184268 Ack No: 2335809728 Win Size : 49152
+<--Dir
+Seq Number: 2335809728 Ack No: 3636175324 Win Size : 49152
+Lost rate is :0.01356
+Average Round Trip Time: 110.00000 ms 
+Theoretical throughput is found to be 1.433 Mbits per second 
+*************************************************************
+TCP Connection 2
+Source Port:43502
+Throughput: 11.49 Mbits per second 
+Dir -->
+Seq Number: 2559649702 Ack No: 3429921723 Win Size : 49152
+<--Dir
+Seq Number: 3429921723 Ack No: 2558634654 Win Size : 49152
+Dir -->
+Seq Number: 2559374582 Ack No: 3429921723 Win Size : 49152
+<--Dir
+Seq Number: 3429921723 Ack No: 2558636102 Win Size : 49152
+Lost rate is :0.00000
+Average Round Trip Time: 72.00000 ms 
+Theoretical throughput is found to be Infinity Mbits per second 
+*************************************************************
+TCP Connection 3
+Source Port:43498
+Throughput: 41.77 Mbits per second 
+Dir -->
+Seq Number: 709690223 Ack No: 1921750144 Win Size : 49152
+<--Dir
+Seq Number: 1921750144 Ack No: 705669127 Win Size : 49152
+Dir -->
+Seq Number: 710579295 Ack No: 1921750144 Win Size : 49152
+<--Dir
+Seq Number: 1921750144 Ack No: 705670575 Win Size : 49152
+Lost rate is :0.00043
+Average Round Trip Time: 73.00000 ms 
+Theoretical throughput is found to be 7.692 Mbits per second 
+*************************************************************

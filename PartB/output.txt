@@ -1,0 +1,15 @@
+TCP Connection 1 Source Port:43500
+Congestion window: 10, 11, 10, 13, 13, 
+Total triple duplicate acknowledgement :38
+Total retransmission due to timeout :56
+*********************************************
+TCP Connection 2 Source Port:43502
+Congestion window: 10, 11, 10, 9, 8, 
+Total triple duplicate acknowledgement :0
+Total retransmission due to timeout :0
+*********************************************
+TCP Connection 3 Source Port:43498
+Congestion window: 10, 11, 12, 13, 13, 
+Total triple duplicate acknowledgement :2
+Total retransmission due to timeout :1
+*********************************************
